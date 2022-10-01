@@ -2,8 +2,6 @@ import { Client } from "@notionhq/client"
 import { useState } from "react"
 import Image from 'next/image'
 import notion_logo from '../public/download.png'
-import google_docs from '../public/google_docs.png'
-import axios from "axios"
 import twitter_logo from '../public/twitter.png'
 import noteury_logo from '../public/noteury.png'
 
